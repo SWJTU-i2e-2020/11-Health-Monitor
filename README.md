@@ -16,7 +16,10 @@
 制作基于LORA的实时监测养老院老人的身体健康情况（心率、血氧）可穿戴设备<br>
 ***
 国内外产品现状（市场调研）<br>
-  
+![Image text](image/1.png)
+![Image text](image/2.png)
+![Image text](image/3.png)
+![Image text](image/4.png)
 ***
 技术指标需求：  
 | 指标   | 必须实现                                                             | 希望实现                                                |
