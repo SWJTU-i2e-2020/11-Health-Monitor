@@ -33,7 +33,7 @@
 | 运输   | 易于携带                                                             |                                                             |
 ***
 方案比较<br>
- ![Image text](image/5.jpg)
+ ![Image text](image/5.jpg;style="transform:rotate(270deg)"/)
 
 
 | 评价标准 | 方案一 | 方案二 |
