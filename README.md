@@ -1,11 +1,11 @@
-项目名称：Health-Monitor
-作者姓名                            github ID
-2019112411张锴                    shinomiyaqaq
-2019112400郭恺                    Gokaii
-2019112403何厚谊                  Hackeryii
-2019112401龚真晓                  gongzhenxiao
-2019112410宗冕                    Zongmian
-2019112424王轩杨                  XuanYangW
+项目名称：Health-Monitor<br>
+作者姓名                            github ID<br>
+2019112411张锴                    shinomiyaqaq<br>
+2019112400郭恺                    Gokaii<br>
+2019112403何厚谊                  Hackeryii<br>
+2019112401龚真晓                  gongzhenxiao<br>
+2019112410宗冕                    Zongmian<br>
+2019112424王轩杨                  XuanYangW<br>
 
 问题剖析  
 现状：随着我国老龄化的日益加重，养老院将在社会养老中起到越来越大的作用。<br>
