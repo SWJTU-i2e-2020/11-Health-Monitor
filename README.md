@@ -43,8 +43,7 @@
 ***
 方案比较<br>
   ![Image text](image/5.jpg)
-  image/6.jpg
-
+  ![Image text](image/6.jpg)
 
 | 评价标准 | 方案一 | 方案二 |
 | -------- | --------- | --------- |
